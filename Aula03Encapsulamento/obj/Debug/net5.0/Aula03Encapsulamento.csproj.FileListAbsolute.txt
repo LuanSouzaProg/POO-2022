@@ -1,0 +1,16 @@
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.AssemblyInfo.cs
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\bin\Debug\net5.0\Aula03Encapsulamento.exe
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\bin\Debug\net5.0\Aula03Encapsulamento.deps.json
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\bin\Debug\net5.0\Aula03Encapsulamento.runtimeconfig.json
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\bin\Debug\net5.0\Aula03Encapsulamento.runtimeconfig.dev.json
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\bin\Debug\net5.0\Aula03Encapsulamento.dll
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\bin\Debug\net5.0\ref\Aula03Encapsulamento.dll
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\bin\Debug\net5.0\Aula03Encapsulamento.pdb
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.dll
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\ref\Aula03Encapsulamento.dll
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.pdb
+C:\Users\luand\Área de Trabalho\ulbra\Sexta-feira\pasta1\POO-2022\Aula03Encapsulamento\obj\Debug\net5.0\Aula03Encapsulamento.genruntimeconfig.cache
