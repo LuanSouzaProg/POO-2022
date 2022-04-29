@@ -5,7 +5,7 @@ namespace pasta3.Mercado
 {
     public class Mercado{
         static Pedido pedidoDoLuan;
-        static void Main(string[] args){
+        public static void Main(){
             Produto sabonete = new Produto(1, "Sabonete", 2.80, 50);
             Produto cafe = new Produto(2, "Café", 5.00, 30);
             Produto arroz = new Produto(3, "Arroz", 10.60, 80);
